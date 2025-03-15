@@ -51,7 +51,7 @@ This frustration led me to develop a module better suited to my needs.
 1. Battery protection:
    - Solder R6 for unprotected batteries
    - Solder R7 for protected batteries (omit U2, U3, R4, R5, C3)
-2. Battery connection**: Connect to B+/B- terminals (even for protected batteries)
+2. Battery connection: Connect to B+/B- terminals (same for protected batteries)
 3. Output: Use O+/O- (O- shares module ground)
 4. USB interface: D+/D- for USB-to-serial conversion
 5. External input: Connect 5V sources (e.g. solar panels) to I+/I-
