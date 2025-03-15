@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Lab\Battery\PCB\Battery.PcbDoc
 Date     : 2025/3/15
-Time     : 20:00:54
+Time     : 23:15:02
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -15,7 +15,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=30mil) (Preferred=20mil) (InNetClass('Power'))
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=40mil) (InNetClass('Power'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=10mil) (Max=20mil) (Preferred=10mil) (All)
@@ -30,7 +30,7 @@ Rule Violations :0
 Processing Rule : SMD Entry (Side = Allowed) (Corner = Allowed) (Any Angle = Allowed) (Ignore First Corner = Allowed)
 Rule Violations :0
 
-Processing Rule : SMD Entry (Side = Not Allowed) (Corner = Not Allowed) (Any Angle = Not Allowed) (Ignore First Corner = Allowed)
+Processing Rule : SMD Entry (Side = Allowed) (Corner = Not Allowed) (Any Angle = Not Allowed) (Ignore First Corner = Allowed)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
