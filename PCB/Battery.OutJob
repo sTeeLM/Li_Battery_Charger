@@ -1,21 +1,8 @@
 [OutputJobFile]
 Version=1.0
-Caption=
-Description=
-VaultGUID=
-ItemGUID=
-ItemHRID=
-RevisionGUID=
-RevisionId=
-VaultHRID=
-AutoItemHRID=
-NextRevId=
-FolderGUID=
-LifeCycleDefinitionGUID=
-RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job Group
+Name=
 Description=
 TargetOutputMedium=PDF
 VariantName=[No Variations]
@@ -49,9 +36,9 @@ Configuration1_Name1=General
 Configuration1_Item1=TemplateFilename=
 
 [PublishSettings]
-OutputFilePath2=D:\Lab\Battery\PCB\.PDF
+OutputFilePath2=D:\Lab\Li_Battery_Charger\PCB\.PDF
 ReleaseManaged2=0
-OutputBasePath2=D:\Lab\Battery\PCB\
+OutputBasePath2=D:\Lab\Li_Battery_Charger\PCB\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -78,7 +65,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for Battery
+OutputBasePath3=
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -91,7 +78,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for Battery
+OutputBasePath4=
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -128,7 +115,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\Lab\Battery\PCB\.PDF
+RelativeOutputPath2=D:\Lab\Li_Battery_Charger\PCB\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
