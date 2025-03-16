@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : D:\Lab\Battery\PCB\Battery.PcbDoc
+Date         : 2025/3/16
+Time         : 9:17:59
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 1040milsx840mils
+    Components on board, 22
+count : 2
